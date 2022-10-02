@@ -6,3 +6,5 @@
 * [Proporcionar o desenvolvimento Back-end com NodeJs]
 * [Acesso ao Projeto Público]
 * [Nodejs-Mysql]
+* [Alunos curso de informática]
+* [O sistema tem o objetivo de proporcionar a interação de linguagens de programação com banco de dados desenvolvendo um sistema de Forum perguntas e respostas com login público]
